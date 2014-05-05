@@ -7,4 +7,4 @@ hidden = TRUE
 dependencies[] = migrate
 dependencies[] = migrate_d2d
 
-;files[] = node.inc
+files[] = node.inc
