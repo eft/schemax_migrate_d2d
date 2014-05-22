@@ -1,8 +1,7 @@
-name = "D6 to D7 migration"
+name = "Schemax D6 to D7 migration"
 description = "Migrate content from D6 site to D7"
 package = "Schemax"
 core = 7.x
-hidden = TRUE
 
 dependencies[] = migrate
 dependencies[] = migrate_d2d
